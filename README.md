@@ -36,6 +36,10 @@ https://raw.githubusercontent.com/zicai1026/proxy-repo/main/config/convert-phone
 ```
 https://gitlab.com/zicai1026/proxy-repo/raw/main/config/convert-phone.ini
 ```
+
+```
+https://codeberg.org/zicai1026/proxy-repo/raw/branch/main/config/convert-phone.ini
+```
 * 远程配置(桌面-在线规则)
 
 ```
@@ -44,6 +48,10 @@ https://raw.githubusercontent.com/zicai1026/proxy-repo/main/config/convert-cfw-o
 
 ```
 https://gitlab.com/zicai1026/proxy-repo/raw/main/config/convert-cfw-online.ini
+```
+
+```
+https://codeberg.org/zicai1026/proxy-repo/raw/branch/main/config/convert-cfw-online.ini
 ```
 
 * 远程配置(桌面-本地规则)
@@ -56,3 +64,6 @@ https://raw.githubusercontent.com/zicai1026/proxy-repo/main/config/convert-cfw-r
 https://gitlab.com/zicai1026/proxy-repo/raw/main/config/convert-cfw-ruleset.ini
 ```
 
+```
+https://codeberg.org/zicai1026/proxy-repo/raw/branch/main/config/convert-cfw-ruleset.ini
+```
